@@ -6,7 +6,7 @@ Application mobile permettant de géolocaliser un utilisateur en matérialisant 
 <li>Expo</li>
 <li>Redux</li>
 <li>React Native Elements</li>
-<li>Map interactive</li>
+<li>Map interactive (Données de localisation)</li>
 <li>Chat (Websockets)</li>
 <li>Local Storage</li>
 
